@@ -22,7 +22,7 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 
 1. Se realiza la siguiente estructura 
 
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/nodejs%20estructura.png?raw=true)
 
 ### Configuracion y herramientas usadas 
 
@@ -36,7 +36,7 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 ------------------------------------------
 
 * Para la configuracion de mqtt in se utilizo la siguiente 
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/configuracion%20mqtt.png?raw=true)
 
 * Para json solo se escogio Always convert to JavaScrip Object
 
@@ -50,12 +50,12 @@ return msg;
 ```
 
 
-* Para la configuracion de gauge de temperatura se utilizo la siguiente 
-![]()
+* Para la configuracion de gauge de distancia se utilizo la siguiente 
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/conf%20distancia.png?raw=true)
 
 
-* Para la configuracion de chart de Humedad  se utilizo la siguiente 
-![]()
+* Para la configuracion de chart de distancia se utilizo la siguiente 
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/conf%20distancia%20graf.png?raw=true)
 
 
 # **CONEXION Y CODIGO EN WOKWI
@@ -85,7 +85,7 @@ woki : https://wokwi.com
 
 ## **Conexión**
 
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/conexion.png?raw=true)
 
 
 ## **Librerías**
@@ -257,26 +257,21 @@ delay(1000);
 ## 1. Resultado de la pagina WOKWI 
 
  
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/resultadp%20wok.png?raw=true)
 
 
 
-## 2. Resultado en la red node-red. 
-
-![]()
-
-
-## 3. Primer  resultado del dashboard 
+## 2. Primer  resultado del dashboard 
 
  
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/primer%20resultado%20dash.png?raw=true)
 
-## 4. Segunda  resultado del dashboard 
+## 3. Segunda  resultado del dashboard 
 
  
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/Resultado%202.png?raw=true)
 
-![]()
+![](https://github.com/AxelMld/Practica7-enviodatosdis/blob/main/Resultado%202.2.png?raw=true)
 
 
 Notas: Tener cuidado con el nombramiento de la red, asi como nombramiento del client-publish
